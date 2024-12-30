@@ -62,7 +62,7 @@ Le projet utilise **React.js** et **Tailwind CSS** pour offrir une expérience u
 
 ## Déploiement
 
-L'application est déployée sur [Todo App](https://github.com/Elgargati/Todo_App).
+L'application est déployée sur [Todo App](https://elgargati.github.io/Todo_App/).
 
 ---
 
